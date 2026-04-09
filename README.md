@@ -1,11 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?
-type=waving&color=0:8A2BE2,50:9D4EDD,100:DA70D6&height=280&section=header&text=Ariana%20Franco&fontS
-ize=75&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=FullStack%20Developer%20%7C%20Open%20Source%20%7C%20Top%200.1%25%20Coder&descAlignY=62&descSize=20"
-width="100%" />
-
-<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001A57,50:9D4EDD,100:009C8C&height=280&section=header&text=Ariana%20Franco&fontSize=75&fontAlignY=40&animation=fadeIn&fontColor=ffffff" width="100%" />
+</div>
 
 ## Hi there 👋
 
