@@ -46,7 +46,8 @@ height="60" />
 - AI and Democracy
 - AI and One Health
 
-### OncoTwin: Gemelos digitales en Oncología. 
+### 🧬 OncoTwin: Gemelos digitales en Oncología (Hospital Clínico San Carlos). 
+[![Ver Certificado](https://img.shields.io/badge/Ver_Certificado_ONCOTwin-007A87?style=for-the-badge&logo=googlescholar&logoColor=white)](https://github.com/TU_USUARIO/TU_REPOSITORIO/raw/main/certificado_ARIANA_FRANCO_CASTRO_OncoTwin.pdf)
 
 ## 📫 How to reach me: 
 
