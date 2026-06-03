@@ -17,7 +17,6 @@ height="60" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="60" height="60" />
 <img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" alt="SAS" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="60" height="60" />
   
 </p>
 
